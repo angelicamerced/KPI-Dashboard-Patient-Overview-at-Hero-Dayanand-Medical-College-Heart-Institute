@@ -1,13 +1,13 @@
 # KPI-Dashboard-Patient-Overview-at-Hero-Dayanand-Medical-College-Heart-Institute
 
 ## Table of Contents
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Data Cleaning/Preparation](data-cleaning-/-preparation)
-- [Key Questions](key-questions)
-- [Results/Findings](results-/-findings)
-- [Recommendations](recommendations)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning-/-preparation)
+- [Key Questions](#key-questions)
+- [Results/Findings](#results-/-findings)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 The primary objective of this project is to develop a comprehensive KPI Dashboard that provides an in-depth overview of patient data from the cardiology unit at Hero Dayanand Medical College Heart Institute. The dashboard aims to deliver actionable insights by visualizing key performance indicators (KPIs) and metrics related to patients' admissions and discharges over a two-year period. 
