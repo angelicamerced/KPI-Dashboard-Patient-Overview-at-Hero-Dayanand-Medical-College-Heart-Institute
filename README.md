@@ -22,14 +22,14 @@ Microsoft Excel:
 - Charts - Data Visualization and Storytelling
 
 ### Data Cleaning/Preparation
-Data loading and inspection
-Handling missing values and removing blank rows
-Removing duplicates and clear formatting
-Removing unnecessary columns
-Renaming some values for a clearer understanding of certain terms
-Added a new columns for Date of Admission and Date of Discharge to correct formatting issues
-Removed D.O.A and D.O.D columns 
-Changed the correct data type of all the columns
+- Data loading and inspection
+- Handling missing values and removing blank rows
+- Removing duplicates and clear formatting
+- Removing unnecessary columns
+- Renaming some values for a clearer understanding of certain terms
+- Added a new columns for Date of Admission and Date of Discharge to correct formatting issues
+- Removed D.O.A and D.O.D columns 
+- Changed the correct data type of all the columns
 
 ### Key Questions
 To ensure that the KPI Dashboard provides valuable insights and meets the needs of stakeholders, the following key questions were addressed:
