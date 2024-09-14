@@ -84,7 +84,7 @@ To ensure that the KPI Dashboard provides valuable insights and meets the needs 
 - With a significant portion of patients being aged 60 and above, develop specialized care programs and resources suitable to the needs of elderly patients. 
 - Given the high percentage of emergency admissions, ensure that emergency services are well-equipped and staffed to handle peak periods effectively. 
 - Investigate the reasons for patients being discharged against medical advice and implement strategies to address any underlying issues, such as patient education or improving discharge planning.
-- Explore ways to increase outreach and accessibility to rural areas to balance the admission distribution and address any disparities in healthcare access between urban and rural populations.
+- Explore ways to increase outreach and accessibility to rural areas to address any disparities in healthcare access between urban and rural populations.
 - While the gender distribution shows a higher proportion of male patients, ensure that healthcare services are equitably designed and address any gender-specific health needs.
 
 By implementing these recommendations, the hospital can enhance patient care, optimize resource utilization, and address any disparities in service delivery.
