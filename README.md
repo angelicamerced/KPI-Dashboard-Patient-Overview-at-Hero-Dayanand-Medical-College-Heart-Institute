@@ -46,6 +46,11 @@ To ensure that the KPI Dashboard provides valuable insights and meets the needs 
 - What is the gender distribution of patients admitted?
 
 ### Results/Findings
+
+#### Dashboard
+
+<img src="https://github.com/angelicamerced/KPI-Dashboard-Patient-Overview-at-Hero-Dayanand-Medical-College-Heart-Institute/blob/main/dashboard.png" alt="First Image" />
+
 <img src="https://github.com/angelicamerced/KPI-Dashboard-Patient-Overview-at-Hero-Dayanand-Medical-College-Heart-Institute/blob/main/image1.png" alt="First Image" width="200"/>
 <img src="https://github.com/angelicamerced/KPI-Dashboard-Patient-Overview-at-Hero-Dayanand-Medical-College-Heart-Institute/blob/main/patientsbyadmissiondate.png" alt="Second Image" width="500" height="300"/>
 
@@ -83,6 +88,8 @@ To ensure that the KPI Dashboard provides valuable insights and meets the needs 
 - While the gender distribution shows a higher proportion of male patients, ensure that healthcare services are equitably designed and address any gender-specific health needs.
 
 By implementing these recommendations, the hospital can enhance patient care, optimize resource utilization, and address any disparities in service delivery.
+
+
 
 
 
